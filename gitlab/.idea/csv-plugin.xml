@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CsvFileAttributes">
+    <option name="attributeMap">
+      <map>
+        <entry key="/tso500_metrics_analysis/Keith/2020_10_16/Results/MetricsOutput.tsv_dna_expanded_metrics.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/tso500_metrics_analysis/Keith/2020_10_16/Results/MetricsOutput.tsv_dna_library_qc_CNV.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/tso500_metrics_analysis/Keith/Run 1 NextSeq 30.01.2020/Results/MetricsOutput.tsv_dna_expanded_metrics.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/tso500_metrics_analysis/Keith/Run 1 NextSeq 30.01.2020/Results/MetricsOutput.tsv_dna_library_qc_CNV.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/tso500_metrics_analysis/Keith/Run 1 NextSeq 30.01.2020/Results/MetricsOutput.tsv_dna_library_qc_metrics.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
